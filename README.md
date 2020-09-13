@@ -10,4 +10,4 @@
 - 💬 Ask me about Machine Learning algorithms, breakthrough in the world of Machine Learning and Artificial Intelligence
 - 📫 How to reach me: You can found me on Linkdin, Instagram and Twitter.(Not so active on Twitter 🥱)
 - 😄 Pronouns: 
-- ⚡ Fun fact:
+- ⚡ Fact: If there is nothing but survival, how can I believe in sin ?
