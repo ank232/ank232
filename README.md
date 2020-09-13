@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m a 3rd year CSE undergrad.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Machine Learning algorithms, breakthrough in the world of Machine Learning and Artificial Intelligence
-- 📫 How to reach me:
+- 📫 How to reach me: You can found me on Linkdin, Instagram and Twitter.(Not so active on Twitter!)
 - 😄 Pronouns: 
 - ⚡ Fun fact:
 -->
