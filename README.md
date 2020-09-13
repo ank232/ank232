@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning Machine Learning and Neural Networks.I am committed to work upon my ML skils.  
 - 👯 I’m a 3rd year CSE undergrad.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Neural Networks and how to build one.
 - 💬 Ask me about Machine Learning algorithms, breakthrough in the world of Machine Learning and Artificial Intelligence
 - 📫 How to reach me: You can found me on Linkdin, Instagram and Twitter.(Not so active on Twitter 🥱)
 - 😄 Pronouns: 
