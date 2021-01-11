@@ -4,7 +4,7 @@
 **ank232/ank232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently learning Machine Learning & Artificial Intelligence, how to make a chatbot and I am committed to work upon my ML skils. 
+- 🔭 I’m currently learning Machine Learning & Artificial Intelligence, how to make a chatbot.I am committed to work upon my ML skils. 
 - 👯 I’m a 3rd year CSE undergrad.
 - 🤔 I’m looking for help with Neural Networks and how to build one.
 - 💬 Ask me about: Breakthrough in the world of Machine Learning and Artificial Intelligence, Space Science and some cool stuff related to sci-fi! 
