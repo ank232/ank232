@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently learning Machine Learning & Artificial Intelligence.I am committed to work upon my ML skills. 
-- 👯 I’m a 3rd year CSE undergrad.
+- 👯 I’m a final year CSE undergrad.
 - 🤔 I’m looking for help with Neural Networks and how to build one.
 - 💬 Ask me about: Breakthrough in the world of Machine Learning and Artificial Intelligence, Space Science and some cool stuff related to sci-fi! 
 - 📫 How to reach me: You can find me at Linkedin, Instagram and Twitter.(Not so active on Twitter 🥱)
