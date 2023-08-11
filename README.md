@@ -11,3 +11,4 @@
 - 📫 How to reach me: You can find me at Linkedin, Instagram and Twitter.(Not so active on Twitter 🥱)
 - 😄 Pronouns: Be a noun always!
 - ⚡ Fact: If there is nothing but survival, how can I believe in sin ?
+![ank232's Stats](https://github-readme-stats.vercel.app/api?username=ank232&theme=dracula&show_icons=true&hide_border=true&count_private=true)
